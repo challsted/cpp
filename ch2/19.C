@@ -2,7 +2,7 @@
 #include <iomanip>
 
 /*
- * This program is for Section X-XX Question XX found on page XXX 
+ * This program is for Section 2-13 Question 19 found on page 70
  * of the book "Computer Science A Structured Programming Approach Useing C++"
  */
 
@@ -26,7 +26,7 @@ int main (void)
     cin >> return0 >> return1 >> return2 >> return3 >> return4 >> return5 >> return6 >> return7 >> return8 >> return9; 
 
     //Return the numbers 1st and 10th, then 2nd and 9th and so on
-    cout << "Your numbers forward:" << endl;
+    cout << "Your numbers: " << endl;
     cout << "  " << return0 << " " << return9 << endl;
     cout << "  " << return1 << " " << return8 << endl;
     cout << "  " << return2 << " " << return7 << endl;
