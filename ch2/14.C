@@ -3,7 +3,7 @@
 
 /*
  * This program is for Section 2-13 Question 14 found on page 69
- * of the book "Computer Science A Structured Programng Approach Useing C++"
+ * of the book "Computer Science A Structured Programing Approach Useing C++"
  */
 
 using namespace std;
